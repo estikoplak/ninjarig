@@ -1,7 +1,7 @@
 {
-    "algo": "chuckwa",
+    "algo": "Chukwa2",
     "api": {
-        "port": 3333,
+        "port": 1000,
         "access-token": null,
         "id": null,
         "worker-id": null,
@@ -25,7 +25,7 @@
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
-            "variant": "chuckwa",
+            "variant": "Chukwa2",
             "enabled": true,
             "tls": false,
             "tls-fingerprint": null
