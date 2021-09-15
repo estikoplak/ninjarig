@@ -19,7 +19,7 @@
     "log-file": null,
     "pools": [
         {
-            "url": "stratum+tcp://trtl.muxdux.com:5555",
+            "url": "stratum+tcp://pool.solo.turtlecoin.dev:3333",
             "user": "TRTLv1sD4Wx8YxnXmScVioYVtEgLmQqVgAD4pmqStV7Q5WbGDEgGGmDQ1q6GzF2Reub9PFi1cjf7YH5HuE6DoHjd8Z45iRJWJkE",
             "pass": "x",
             "rig-id": null,
