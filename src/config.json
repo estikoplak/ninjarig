@@ -1,7 +1,7 @@
 {
-    "algo": "Argon2id Chukwa",
+    "algo": "Chukwa",
     "api": {
-        "port": 443,
+        "port": 3333,
         "access-token": null,
         "id": null,
         "worker-id": null,
@@ -15,11 +15,11 @@
     "cpu-optimization": null,
     "cpu-affinity": null,
     "priority": null,
-    "donate-level": 5,
+    "donate-level": 1,
     "log-file": null,
     "pools": [
         {
-            "url": "stratum+tcp://node.turtlepay.io:443",
+            "url": "stratum+tcp://pool.solo.turtlecoin.dev:3333",
             "user": "TRTLv1sD4Wx8YxnXmScVioYVtEgLmQqVgAD4pmqStV7Q5WbGDEgGGmDQ1q6GzF2Reub9PFi1cjf7YH5HuE6DoHjd8Z45iRJWJkE",
             "pass": "x",
             "rig-id": null,
