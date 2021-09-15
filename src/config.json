@@ -1,7 +1,7 @@
 {
-    "algo": "Chukwa",
+    "algo": "chukwa",
     "api": {
-        "port": 1000,
+        "port": 3333,
         "access-token": null,
         "id": null,
         "worker-id": null,
